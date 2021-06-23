@@ -1,3 +1,5 @@
+![about](https://user-images.githubusercontent.com/85578450/123108626-290a5980-d46d-11eb-878d-f32b32204c4f.png)
+![failed](https://user-images.githubusercontent.com/85578450/123108652-2f003a80-d46d-11eb-9c44-8e77f91b1a1a.png)
 # OnlineVoting
 Front-end: JSP (I know, SUPER outdated) HTML CSS
 
